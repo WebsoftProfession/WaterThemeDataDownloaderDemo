@@ -2,8 +2,8 @@
 //  WaterThemeDataDownloaderDemoTests.m
 //  WaterThemeDataDownloaderDemoTests
 //
-//  Created by Dotsquares on 6/24/16.
-//  Copyright © 2016 Dotsquares. All rights reserved.
+//  Created by  on 6/24/16.
+//  Copyright © 2016 .
 //
 
 #import <XCTest/XCTest.h>
